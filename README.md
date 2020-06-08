@@ -1,0 +1,2 @@
+An Automatic Number Plate Recognition System that takes a video of a vehicle as an input and returns the license number.
+The ANPR system also updates this information in the Firebase database which is integrated with it. It deducts money from the account corresponding to the license number and also uploads the frame at which the number plate is detected. This frame can be seen in the Android App which is linked to the same Firebase storage as the ANPR system.
